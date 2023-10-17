@@ -82,3 +82,6 @@ Here's a walkthrough of implemented user stories:
 - Step update prettier to format code.
 - Step env.
 - Step structure of source code.
+
+# Author
+- BenJD1205
